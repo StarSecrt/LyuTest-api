@@ -1,0 +1,32 @@
+export declare class T_BusinessPartnerEntity {
+    c_index: number;
+    c_code: string;
+    c_name: string;
+    c_registration: string;
+    c_representative_name: string;
+    c_item: string;
+    c_type: string;
+    c_group_code: string;
+    c_group_name: string;
+    c_headoffice_yn: string;
+    c_headoffice_code: string;
+    c_address: string;
+    c_post_code: string;
+    c_manager: string;
+    c_phone: string;
+    c_cell_phone: string;
+    c_fax: string;
+    c_mail: string;
+    c_bank_code: string;
+    c_bank_name: string;
+    c_bank_account_number: string;
+    c_pos_type: string;
+    c_pos_id: number;
+    c_pos_shopid: number;
+    c_description: string;
+    c_status: string;
+    c_create_user_index: number;
+    c_create_date: Date;
+    c_update_user_index: number;
+    c_update_date: Date;
+}
